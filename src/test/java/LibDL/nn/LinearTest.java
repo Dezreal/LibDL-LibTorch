@@ -1,9 +1,6 @@
 package LibDL.nn;
 
 import LibDL.Tensor;
-import LibDL.data.StatelessDataLoader;
-import LibDL.data.datasets.MNIST;
-import LibDL.data.util;
 import LibDL.ld;
 
 public class LinearTest {
